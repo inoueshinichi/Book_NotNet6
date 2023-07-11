@@ -8,10 +8,10 @@
 ### 第一章 .NET6の仕組み
 
 #### 1.1 .NETの始まり
-1.1.1. .NET Frameworkの歴史
-1.1.2. .NET 共通言語ランタイム(CLR)
-1.1.3. .NET Coreの歴史
-1.1.4. .NET Standardの歴史
++ 1.1.1. .NET Frameworkの歴史
++ 1.1.2. .NET 共通言語ランタイム(CLR)
++ 1.1.3. .NET Coreの歴史
++ 1.1.4. .NET Standardの歴史
 
 #### 1.2 環境依存を超える .NETランタイム
 1.2.1. プログラムの動作環境
